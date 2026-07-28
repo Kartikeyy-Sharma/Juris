@@ -144,13 +144,13 @@ My Approach
 
 Instead of a generic RAG pipeline, Juris uses a custom retrieval architecture designed specifically for legal documents.
 
--> Hierarchical Document Modeling – Preserves the Act → Chapter → Section → Clause structure.
--> Semantic Chunking – Chunks are created at legal boundaries instead of fixed token sizes.
--> Rich Metadata Indexing – Every embedding retains legal context such as Act, Chapter, Section, and Clause.
--> Context-Aware Retrieval – Retrieves complete legal provisions instead of isolated text fragments.
--> Grounded AI Responses – The LLM reasons over retrieved legal context, producing more reliable and explainable analyses.
--> Why It Matters
+1. Hierarchical Document Modeling – Preserves the Act → Chapter → Section → Clause structure.
+2. Semantic Chunking – Chunks are created at legal boundaries instead of fixed token sizes.
+3. Rich Metadata Indexing – Every embedding retains legal context such as Act, Chapter, Section, and Clause.
+4. Context-Aware Retrieval – Retrieves complete legal provisions instead of isolated text fragments.
+5. Grounded AI Responses – The LLM reasons over retrieved legal context, producing more reliable and explainable analyses.
 
+Why It Matters?
 By designing the retrieval pipeline around the structure of legal knowledge rather than relying on generic chunking strategies, Juris delivers:
 
 Better retrieval relevance
