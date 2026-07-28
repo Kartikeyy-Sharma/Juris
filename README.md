@@ -128,7 +128,7 @@ Juris returns:
 
 ---
 
-## 💡 Why I Chose Custom RAG?
+## Why I Chose Custom RAG?
 
 Most RAG applications treat documents as plain text, splitting them into fixed-size chunks before storing them in a vector database. While this works well for general documents, it falls short for legal content where structure is as important as the text itself.
 Legal documents follow a strict hierarchy:
