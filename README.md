@@ -274,7 +274,3 @@ npm run dev
 * Backend API Design
 
 ---
-
-Built by **Nitro Zeta**
-
-Passionate about building production-ready AI applications with Python, FastAPI, Retrieval-Augmented Generation (RAG), AI Agents, and modern backend systems.
