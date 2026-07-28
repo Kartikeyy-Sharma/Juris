@@ -1,4 +1,4 @@
-# Juris — AI Legal Contract Analyzer
+# Juris - AI Legal Contract Analyzer
 
 > **Read Less. Understand More.**
 
